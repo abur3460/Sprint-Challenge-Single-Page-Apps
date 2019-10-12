@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing leads to a more efficient and quick-loading application. It takes longer on the initial load-up, but after it is initially loaded it never has to refresh, and the user can navigate around fluidly.
 
 ## Project Set Up
 
